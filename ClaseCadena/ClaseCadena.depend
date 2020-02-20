@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1582171799 source:c:\users\maxi\desktop\programación\programacion parte 3, la vencida o no\clasecadena\main.cpp
+	<iostream>
+	"Cadena.h"
+	<fstream>
+
+1582171630 c:\users\maxi\desktop\programación\programacion parte 3, la vencida o no\clasecadena\include\cadena.h
+	<string.h>
+	<iostream>
+
+1582171548 source:c:\users\maxi\desktop\programación\programacion parte 3, la vencida o no\clasecadena\src\cadena.cpp
+	"Cadena.h"
+	<string.h>
+	<string.h>
+
